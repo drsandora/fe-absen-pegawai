@@ -1,0 +1,21 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+/build
+
+.DS_Store
+*.pem
+
+
+npm-debug.log*
+.pnpm-debug.log*
+
